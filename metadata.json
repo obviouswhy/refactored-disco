@@ -1,17 +1,21 @@
 {
   "id": "100",
-  "description": "Lorem ipsum dol...",
-  "external_url": "https://...",
-  "image": "https://...",
-  "name": "NFT名",
+  "description": "Lorem ipsum doladasdas",
+  "external_url": "https://",
+  "image": "https://i.imgur.com/vnSCpCT.png",
+  "name": "NFT名 ----",
   "attributes": [
     {
       "trait_type": "Foo",
       "value": "Bar"
     },
     {
+      "trait_type": "Foo Level",
+      "value": 200
+    },
+    {
       "trait_type": "Num Value",
-      "value": 10
+      "value": 20
     },
     {
       "display_type": "boost_number",
