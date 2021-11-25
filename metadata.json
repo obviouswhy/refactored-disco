@@ -1,0 +1,27 @@
+{
+  "id": "100",
+  "description": "Lorem ipsum dol...",
+  "external_url": "https://...",
+  "image": "https://...",
+  "name": "NFT名",
+  "attributes": [
+    {
+      "trait_type": "Foo",
+      "value": "Bar"
+    },
+    {
+      "trait_type": "Num Value",
+      "value": 5
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Boost Number",
+      "value": 20
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Boost Percentage",
+      "value": 10
+    }
+  ]
+}
