@@ -2,8 +2,8 @@
   "id": "100",
   "description": "Lorem ipsum dol...",
   "external_url": "https://",
-  "image": "https://bafybeigm32amxyd6czi56e74qlploeyvk7wrd3f7dkv6k7knc5w6vs2u74.ipfs.infura-ipfs.io/",
-  "name": "--- NFT名 ---",
+  "image": "https://ipfs.infura.io/ipfs/QmY5qGCS9LoV9mxA8ifWDCTHh1P2XBSsNregJy2nRVb2rz",
+  "name": "---> NFT名 <---",
   "attributes": [
     {
       "trait_type": "Foo",
@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "Foo Level",
-      "value": 200
+      "value": 220
     },
     {
       "trait_type": "Num Value",
-      "value": 40
+      "value": 45
     },
     {
       "display_type": "boost_number",
