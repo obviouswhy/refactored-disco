@@ -1,9 +1,9 @@
 {
   "id": "100",
-  "description": "Lorem ipsum doladasdas",
+  "description": "Lorem ipsum dol...",
   "external_url": "https://",
-  "image": "https://i.imgur.com/vnSCpCT.png",
-  "name": "NFT名 ----",
+  "image": "https://bafybeigm32amxyd6czi56e74qlploeyvk7wrd3f7dkv6k7knc5w6vs2u74.ipfs.infura-ipfs.io/",
+  "name": "--- NFT名 ---",
   "attributes": [
     {
       "trait_type": "Foo",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Num Value",
-      "value": 20
+      "value": 40
     },
     {
       "display_type": "boost_number",
